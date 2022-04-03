@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+
+# production
+/frontend/build
+
+.idea
+.DS_Store
+.env
